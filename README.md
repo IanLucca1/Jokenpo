@@ -1,8 +1,10 @@
-# React + Vite
+## 🇧🇷 Jogue Jokenpo! 🇧🇷
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Com essa aplicação, você pode saber jogar jokenpo contra o computador
 
-Currently, two official plugins are available:
+**Como usar:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone o repositório:** `https://github.com/IanLucca1/EstadoDoBrasil.git`
+2. **Abra o terminal e digite o comando *npm install*
+3. **Depois digite o comando *npm run dev* para rodar o projeto
+4. **Jogue contra o computador
