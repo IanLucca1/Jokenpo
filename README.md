@@ -1,6 +1,6 @@
 ## 🇧🇷 Jogue Jokenpo! 🇧🇷
 
-Com essa aplicação, você pode saber jogar jokenpo contra o computador
+Com essa aplicação, você pode jogar jokenpo contra o computador
 
 **Como usar:**
 
